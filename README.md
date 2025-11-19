@@ -86,6 +86,7 @@ python3 fire-eye.py --help
 
 ```bash
 pip install fire-eye-main
+fire-eye -h
 ```
 
 
