@@ -14,6 +14,7 @@
   🚀 Powered by <b> BANGLADESH CYBER SQUAD and TEAM SHADOW STRIKER </b><br>
   📆 Year: 2025
 </p>
+
 ---
 
 <h1 align="center"> Over View </h1>
@@ -81,6 +82,12 @@ After installation, simply run:
 ```bash
 python3 fire-eye.py --help
 ```
+### Another Way to install
+
+```bash
+pip install fire-eye-main
+```
+
 
 ---
 
