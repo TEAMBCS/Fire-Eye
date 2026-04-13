@@ -61,6 +61,7 @@ python3 fire-eye.py <target> [options]
 | `--report <path>`               | Save the output report to a custom file                  |
 | `--json`                        | Output in JSON format                                    |
 | `--debug`                       | Enable debug logging                                     |
+| `--version`      					      | Show tool version 																			 |
 
 ---
 
