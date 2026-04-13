@@ -50,6 +50,7 @@ python3 fire-eye.py <target> [options]
 | Option                          | Description                                              |
 | ------------------------------- | -------------------------------------------------------- |
 | `target`                        | Target domain or URL (e.g., `https://example.com`)       |
+| `--request` 										| Number of requests to send 													     |
 | `--headers "Key:Val;Key2:Val2"` | Send custom request headers                              |
 | `--header-search "<regex>"`     | Search for evidence in headers, cookies, or body         |
 | `--user-list <file>`            | Custom WAF/CDN/token signature list (JSON/simple format) |
