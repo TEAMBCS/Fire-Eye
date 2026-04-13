@@ -231,9 +231,9 @@ Unauthorized scanning may violate laws or regulations.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author & Developer
 
-* **Adi Barua (ADIRTTA)** — *BLACK ZERO*
+* **BLACK ZERO**
 * 🌐 GitHub: [github.com/TEAM-BCS](https://github.com/TEAM-BCS)
 * 📱 Facebook: [facebook.com/BANGLADESH-CYBER-SQUAD](https://facebook.com/groups/572787103428508/)
 * ⚡ Team: **TEAM BCS**
