@@ -83,12 +83,6 @@ After installation, simply run:
 ```bash
 python3 fire-eye.py --help
 ```
-### Another Way to install
-
-```bash
-pip install fire-eye-main
-fire-eye -h
-```
 
 
 ---
