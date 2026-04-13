@@ -1,0 +1,10 @@
+{
+    "Cloudflare": {
+        "manufacturer": "Cloudflare Inc.",
+        "headers": ["^cf-ray:", "^cf-cache-status:", "^x-turbo-charged-by:", "^cf-request-id:"],
+        "cookies": ["__cfduid", "__cf_bm", "cf_clearance"],
+        "body": ["forbidden. cloudflare", "attention required! | cloudflare", "cloudflare ray id:"]
+    },
+}
+
+
