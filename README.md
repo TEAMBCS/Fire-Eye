@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://i.postimg.cc/RhQQHY5q/Tool-logo.jpg" width="380" alt="FIRE-EYE Logo">
+  <img src="https://raw.githubusercontent.com/TEAMBCS/Fire-Eye/main/Image/fire-eye-logo.png" width="380" alt="FIRE-EYE Logo">
 </p>
 
 <h1 align="center">🔥 FIRE-EYE 🔥</h1>
@@ -198,7 +198,7 @@ python3 fire-eye.py https://example.com --report fire-eye.txt
 
 
 <p align="center">
-  <img src="https://i.postimg.cc/K8JfQjqC/tool-info.jpg" alt="pic" width="800"/>
+  <img src="https://raw.githubusercontent.com/TEAMBCS/Fire-Eye/main/Image/fire-eye-img.jpg" alt="pic" width="800"/>
   &nbsp;&nbsp;&nbsp;
 </p>
 
