@@ -75,7 +75,7 @@ pkg update && pkg install python3 git curl -y
 git clone https://github.com/TEAMBCS/Fire-Eye.git
 cd Fire-Eye
 chmod +x *
-pip3 install -r requirements.txt
+pip3 install -r fire-eye.txt
 python3 fire-eye.py -h
 ```
 
@@ -208,7 +208,7 @@ python3 fire-eye.py https://example.com --report fire-eye.txt
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TEAMBCS/Fire-Eye/main/Image/fire-eye-img.jpg" alt="pic" width="800"/>
+  <img src="https://raw.githubusercontent.com/TEAMBCS/Fire-Eye/main/Image/fire-eye-img_v3.1.jpg" alt="pic" width="800"/>
   &nbsp;&nbsp;&nbsp;
 </p>
 
