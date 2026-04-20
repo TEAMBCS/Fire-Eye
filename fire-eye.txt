@@ -4,4 +4,5 @@ rich
 requests
 aiohttp
 aiohttp[socks]
+aiohttp-socks
 pycryptodome
