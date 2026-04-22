@@ -88,14 +88,7 @@ python3 fire-eye.py --help
 ### Another way of Installation 
 
 ```
-pip install fire-eye-teambcs 
-fire-eye
-```
-
-or 
-
-```
-pip install fire-eye-teambcs==3
+pip install fire-eye-teambcs==3.1.0
 fire-eye
 ```
 
